@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base>
+  <Current_Tuning>
+    <init value="False"/>
+	<kMinimumDistanceForEyeLookAt value="0.5"/>
+	<kDebug value="False"/>
+  </Current_Tuning>
+</base>
